@@ -17,3 +17,6 @@ The output consists of:
 
 - A JSON file (output.json) containing timestamps for detected Pepsi and CocaCola logos.
 - A video with detected objects highlighted.
+
+## Demo
+Google drive Video demo link : <a href="https://drive.google.com/file/d/1Tj1iaf5SWD8o7DlbLJ3g-Iepn0EBmU9e/view?usp=sharing"> Link </a>
